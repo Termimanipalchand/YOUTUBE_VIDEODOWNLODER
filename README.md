@@ -25,7 +25,7 @@ This project is a simple YouTube video downloader built using FastAPI for the ba
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/AnanthaHemanthSatya/youtube_video_downloader.git
+   https://github.com/Termimanipalchand/youtube_video_downloader.git
    cd youtube-video-downloader
 
 2. **yt-dlp uvicorn**
@@ -65,6 +65,6 @@ This project is a simple YouTube video downloader built using FastAPI for the ba
 This project is licensed under the MIT License.
 
 ## Author
--ANANTHA SATYA HEMANTH
--ananthasatyahemanth@gmail.com
--https://github.com/AnanthaHemanthSatya
+-TERMI MANI PAL CHAND
+-termiallam@gmail.com
+-https://github.com/Termimanipalchand
